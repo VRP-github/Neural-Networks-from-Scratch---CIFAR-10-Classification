@@ -63,31 +63,7 @@ To run the code, follow the instructions below:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/NN-CIFAR10-Scratch.git
+    git clone https://github.com/VRP-github/NN-CIFAR10-Scratch.git
     cd NN-CIFAR10-Scratch
     ```
-
-2. Install the necessary Python libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the training script:
-    ```bash
-    python train.py
-    ```
-
-## Usage
-
-1. **Train the Model**: Use `train.py` to start training on the CIFAR-10 dataset.
-2. **Evaluate the Model**: After training, evaluate the model on test data to measure performance.
-3. **Modify Architecture**: Experiment with the model’s architecture in `model.py` to try different configurations.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions to improve the network architecture, optimization strategies, or any other aspect, feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
